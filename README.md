@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notii&show_icons=true&theme=dracula)
+
+<img src="https://komarev.com/ghpvc/?username=notii&color=blue" alt="fax" width="" height="">
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=notii1)
+
+
 <!--
 **NotII/notii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
