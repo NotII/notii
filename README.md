@@ -6,6 +6,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=notii&color=blue" alt="fax" width="" height="">
 
-<img src="https://discord.c99.nl/widget/theme-3/822185000244871218.png">
+<img src="https://discord.c99.nl/widget/theme-4/822185000244871218.png">
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=notii1)
