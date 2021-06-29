@@ -5,11 +5,11 @@
 <p align="center">Current Projects: </p>
 
 - Private sharex uploader
-- WeHeartIt Scraper
 
 <p align="center">Past Projects: </p>
 
 - Tidal RPC
+- WeHeartIt Scraper
 - Shinobu (A Multipurpose Discord Bot)
  
 
