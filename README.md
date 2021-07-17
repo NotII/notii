@@ -17,7 +17,7 @@
 <p align="center"><img align="center" src="https://discord.c99.nl/widget/theme-4/822185000244871218.png">
 <br>
 - <a href="https://discord.gg/london">discord.gg/london</a>
-- <a href="mailto:notii@bts.fail">notii@bts.fail</a>
+- <a href="mailto:notii@bts.fail">g@bts.fail</a>
 </p>
 <h1 align="center"> Stats</h1>
 
