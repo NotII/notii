@@ -27,5 +27,3 @@
 <br> 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=owo&theme=midnight-purple&hide_border=false&bg_color=0,2B303A,58A4B0&icon_color=FFFFFF&title_color=FFFFFF">
 </p>
-<h1 align="center"> Music </h1>
-<p align="center"><img src="https://lastfm-recently-played.vercel.app/api?user=notii1"></p>
